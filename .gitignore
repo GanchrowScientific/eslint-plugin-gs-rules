@@ -1,0 +1,8 @@
+*.map
+*.swp
+node_modules
+npm-debug.log
+tsconfig.tsbuildinfo
+.vscode
+package-lock.json
+target
