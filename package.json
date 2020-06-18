@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-gs-rules",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Ganchrow Scientific's custom rules",
   "keywords": [
     "eslint",
