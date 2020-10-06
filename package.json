@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-gs-rules",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Ganchrow Scientific's custom rules",
   "keywords": [
     "eslint",
@@ -17,14 +17,14 @@
     "prepublishOnly": "scripts/push-to-github.sh"
   },
   "dependencies": {
-    "requireindex": "1.1.0"
+    "requireindex": "1.2.0"
   },
   "devDependencies": {
-    "@typescript-eslint/parser": "3.3.0",
-    "eslint": "7.1.0",
-    "mocha": "7.2.0",
+    "@typescript-eslint/parser": "4.4.0",
+    "eslint": "7.10.0",
+    "mocha": "8.1.3",
     "mocha-junit-reporter": "2.0.0",
-    "typescript": "3.9.5"
+    "typescript": "4.0.3"
   },
   "engines": {
     "node": ">=10.0.0"
